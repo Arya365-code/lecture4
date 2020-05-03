@@ -17,5 +17,5 @@ def main():
     f2 = Flight(origin="Tokyo", destination="Shanghai", duration=185)
     f2.print_info()
     
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
