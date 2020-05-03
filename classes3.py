@@ -18,5 +18,5 @@ def main():
     f1.delay(10)
     f1.print_info()
     
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
